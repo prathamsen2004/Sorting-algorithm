@@ -1,0 +1,22 @@
+#container {
+  height: 200px;
+  display: flex;
+  align-items: flex-end;
+  margin-top: 100px;
+}
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.bar {
+  width: 10px;
+  background-color: black;
+  margin: 0.8px;
+}
+#customRange2 {
+  width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
